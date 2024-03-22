@@ -1,2 +1,2 @@
-# Documenta-o
+# Documentação
 Documentação do Projeto Integrador
